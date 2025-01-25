@@ -1,14 +1,11 @@
 <div align="center">
-    <img src="http://dawit.sytes.net/img/my-logo.png" alt="Dawit" width="80" height="80" />
+    <img src="https://dawitg96.github.io/Portfolio/img/my-logo.png" alt="Dawit" width="80" height="80" />
     <h1 align="center">Hi 👋, I'm Dawit</h1>
     <h3 align="center">A Software/Web Developer</h3>
     <p align="center" dir="auto">
       <a href="https://www.linkedin.com/in/dawitgulino/">
         <img alt="" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;" height="35">
       </a>&nbsp;&nbsp;
-      <a href="#" target="blank" title="Image from blog.mailglo.com" align="right">
-        <img src="http://blog.mailglo.com/wp-content/uploads/2015/10/mailglo-visit_my_web-blue1.png" width="150" height="35" alt="logo website, website logo png transparent background background"/>
-      </a>
       <p>&nbsp;
         <img align="center"
           src="https://github-readme-stats-dawitg96.vercel.app/api?username=dawitg96&show_icons=true&locale=en&theme=radical" alt="dawitg96" />
